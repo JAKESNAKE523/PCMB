@@ -31,5 +31,5 @@ async def on_message(message):
 	else:
 		await bot.say(str(message))
 		
-	
-bot.run('NDIwODA1MzI0MTk5NjkwMjQx.DYEEQg.-NpWX2CKLA7i6Z_osEv-5UmhB8I')
+#Don't forget bot token	
+bot.run('')
